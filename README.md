@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsne12345%2F&count_bg=%23E563DB&title_bg=%23555555&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsne12345%2F&count_bg=%23E563DB&title_bg=%23555555&icon=&icon_color=%EFEFEF&title=hits&edge_flat=false"/></a>
 </p>
 
