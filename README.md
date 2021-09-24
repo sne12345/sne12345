@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
            
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p> Techs that I've used at least once </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-E4405F?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-ffb13b?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
