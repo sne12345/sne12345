@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NaeunSong&fontSize=70&animation=twinkling)
 
 -->
-
+😄 안녕하세요 송나은입니다.
 
 <h3>🛠 Tech Stack 🛠</h3>
 
