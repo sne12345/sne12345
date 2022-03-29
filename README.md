@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pandas-3766AB?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
 <h3> ⚡ Me ⚡ </h3>
 <p>
   <a href="https://nolja98.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
