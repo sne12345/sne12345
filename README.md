@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NaeunSong&fontSize=70&animation=twinkling)
 
-           
-<br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+-->
 
-<p align="center">
+
+<h3>🛠 Tech Stack 🛠</h3>
+
+<p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OracleDB-ffb13b?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
@@ -38,12 +37,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pandas-3766AB?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br>
-<h3 align="center"> ⚡ Me ⚡ </h3>
-<p align="center">
+<br>
+<h3> ⚡ Me ⚡ </h3>
+<p>
   <a href="https://nolja98.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="https://www.instagram.com/naeun__98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:aoghk23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sne12345)](https://solved.ac/sne12345)
 
