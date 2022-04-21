@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 😄 안녕하세요 송나은입니다.
 
-<h3>🛠 Tech Stack 🛠</h3>
+<h3>🛠 Skills 🛠</h3>
 
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
