@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sne12345)](https://solved.ac/sne12345)
-
